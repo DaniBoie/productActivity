@@ -1,0 +1,24 @@
+#mainImg {
+  background-image: url("https://cdn.luxuo.com/2019/09/inmergo-headphones-rocco-giovannoni-luxuo-2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 500px;
+  background-color: white;
+}
+
+#mainTag {
+  margin-top: 300px;
+  font-size: x-large;
+}
+
+#money{
+  margin: 50 px;
+  text-align: center;
+}
+
+#money2 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
